@@ -2,7 +2,6 @@
 
 ![Markdown Lint](https://github.com/PreciousEddy/PreciousEdmund-Cloud-SysAdmin-Journey/actions/workflows/markdown-lint.yml/badge.svg)
 
-
 Welcome to my journey as a Cloud and System Administrator at Systemverse! This repository will document my progress, projects, and learning resources as I dive deep into the world of cloud and system administration.
 
 ## Table of Contents
