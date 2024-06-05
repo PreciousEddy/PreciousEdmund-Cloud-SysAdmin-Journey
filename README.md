@@ -14,9 +14,11 @@ Welcome to my journey as a Cloud and System Administrator at Systemverse! This r
 - [Contributing](#contributing)
 
 ## Overview
+
 This repository tracks my journey in learning and applying cloud and system administration principles. I will cover various tools, technologies, and best practices in the industry.
 
 ## Goals
+
 - Gain a solid understanding of system and cloud administration.
 - Learn and apply various tools and technologies.
 - Manage and automate system administration tasks.
@@ -24,6 +26,7 @@ This repository tracks my journey in learning and applying cloud and system admi
 - Ensure security and compliance in system and cloud environments.
 
 ## Milestones
+
 - [ ] Introduction to System and Cloud Administration
 - [ ] Managing Linux and Windows Servers
 - [ ] Cloud Infrastructure with AWS and Azure
@@ -32,6 +35,7 @@ This repository tracks my journey in learning and applying cloud and system admi
 - [ ] Security and Compliance
 
 ## Projects
+
 - [ ] Project 1: Setting Up a Linux Server
 - [ ] Project 2: Deploying a Web Application on AWS
 - [ ] Project 3: Automating Tasks with Ansible
@@ -39,17 +43,18 @@ This repository tracks my journey in learning and applying cloud and system admi
 - [ ] Project 5: Ensuring Security Compliance
 
 ## Learning Resources
+
 - [Linux Academy](https://linuxacademy.com/)
 - [AWS Training and Certification](https://aws.amazon.com/training/)
 - [Microsoft Learn: Azure](https://docs.microsoft.com/en-us/learn/azure/)
 - [Ansible Documentation](https://docs.ansible.com/)
-- [Prometheus and Grafana](https://www.youtube.com/watch?v=h4Sl21AKiDg)
+- [Udemy: Prometheus and Grafana](https://www.udemy.com/course/prometheus-and-grafana/)
 
 ## Contributing
+
 Feel free to fork this repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
 --------
-
 ## Licensing
 
 - [MIT LICENSE🔑](https://github.com/PreciousEddy/PreciousEdmund-Cloud-SysAdmin-Journey/blob/8f19751c17b0719fa268d9e94cddeddf6d81b5bc/LICENSE)
