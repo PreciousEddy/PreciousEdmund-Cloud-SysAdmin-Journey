@@ -2,7 +2,9 @@
 
 ![Markdown Lint](https://github.com/PreciousEddy/PreciousEdmund-Cloud-SysAdmin-Journey/actions/workflows/markdown-lint.yml/badge.svg)
 
-Welcome to my journey as a Cloud and System Administrator at Systemverse! This repository will document my progress, projects, and learning resources as I dive deep into the world of cloud and system administration.
+Welcome to my journey as a Cloud and System Administrator at Systemverse!
+This repository will document my progress, projects, and learning resources
+as I dive deep into the world of cloud and system administration.
 
 ## Table of Contents
 
@@ -12,10 +14,13 @@ Welcome to my journey as a Cloud and System Administrator at Systemverse! This r
 - [Projects](#projects)
 - [Learning Resources](#learning-resources)
 - [Contributing](#contributing)
+- [Licensing](#licensing)
 
 ## Overview
 
-This repository tracks my journey in learning and applying cloud and system administration principles. I will cover various tools, technologies, and best practices in the industry.
+This repository tracks my journey in learning and applying cloud and system
+administration principles. I will cover various tools, technologies, and best
+practices in the industry.
 
 ## Goals
 
@@ -52,9 +57,9 @@ This repository tracks my journey in learning and applying cloud and system admi
 
 ## Contributing
 
-Feel free to fork this repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
+Feel free to fork this repository and submit pull requests. For major changes,
+please open an issue first to discuss what you would like to change.
 
---------
 ## Licensing
 
 - [MIT LICENSE🔑](https://github.com/PreciousEddy/PreciousEdmund-Cloud-SysAdmin-Journey/blob/8f19751c17b0719fa268d9e94cddeddf6d81b5bc/LICENSE)
