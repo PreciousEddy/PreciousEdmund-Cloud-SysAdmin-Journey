@@ -38,6 +38,7 @@ practices in the industry.
 - [ ] Automation with Ansible and PowerShell
 - [ ] Monitoring and Logging with Prometheus and Grafana
 - [ ] Security and Compliance
+- [ ] Migrations ( Cpanel to Ms and Gmail to Ms)
 
 ## Projects
 
@@ -46,6 +47,7 @@ practices in the industry.
 - [ ] Project 3: Automating Tasks with Ansible
 - [ ] Project 4: Monitoring Infrastructure with Prometheus
 - [ ] Project 5: Ensuring Security Compliance
+- [ ] Project 6: Migration from Cpanel to Ms
 
 ## Learning Resources
 
