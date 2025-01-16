@@ -8,6 +8,8 @@ Migrating from cPanel to Microsoft Office (Microsoft 365 or Exchange Online) inv
 # Below are the steps to achieve this:
 
 ### **Step 1: Prepare for Migration**
+
+
 1. **Plan Migration:**
    - Identify the email accounts to be migrated.
    - Notify users about the migration schedule to avoid disruptions.
@@ -21,6 +23,8 @@ Migrating from cPanel to Microsoft Office (Microsoft 365 or Exchange Online) inv
 ---
 
 ### **Step 2: Set Up Microsoft 365 Mailboxes**
+
+
 1. Log in to the **Microsoft 365 Admin Center**.
 2. Create new user accounts for each email address being migrated.
    - Assign licenses that include Exchange Online.
@@ -28,6 +32,8 @@ Migrating from cPanel to Microsoft Office (Microsoft 365 or Exchange Online) inv
 ---
 
 ### **Step 3: Configure DNS Records**
+
+
 1. Update your **DNS Records** to point to Microsoft 365:
    - Update **MX Records**, **Autodiscover**, **SPF**, and **CNAME** for email.
    - This ensures that new emails are routed to Microsoft 365.
@@ -36,9 +42,13 @@ Migrating from cPanel to Microsoft Office (Microsoft 365 or Exchange Online) inv
 ---
 
 ### **Step 4: Migrate Emails**
+
+
 You can migrate emails using **IMAP Migration** or third-party tools.  
 
 #### **Option 1: IMAP Migration**
+
+
 1. Log in to the **Microsoft 365 Admin Center**.
 2. Navigate to **Setup > Data Migration**.
 3. Choose **IMAP** as the migration type.
@@ -53,11 +63,15 @@ You can migrate emails using **IMAP Migration** or third-party tools.
 6. Start the migration process and monitor its progress.
 
 #### **Option 2: Use Third-Party Tools**
+
+
 For more advanced migrations, tools like **BitTitan MigrationWiz** or **CodeTwo Office 365 Migration** can handle complex data transfers, including contacts and calendars.
 
----
+------------------------------
 
 ### **Step 5: Import Contacts and Calendar (Optional)**
+
+
 1. Export contacts and calendar data from cPanel webmail:
    - **Contacts:** Export as CSV.
    - **Calendar:** Export as ICS.
@@ -68,6 +82,8 @@ For more advanced migrations, tools like **BitTitan MigrationWiz** or **CodeTwo 
 ---
 
 ### **Step 6: Test and Verify**
+
+
 1. Verify that all emails, contacts, and calendar entries have migrated.
 2. Test sending and receiving emails from Microsoft 365.
 3. Update users' email clients (Outlook, mobile devices) with their Microsoft 365 credentials.
@@ -75,6 +91,8 @@ For more advanced migrations, tools like **BitTitan MigrationWiz** or **CodeTwo 
 ---
 
 ### **Step 7: Decommission cPanel Email**
+
+
 1. After confirming that all data has been migrated and users are fully transitioned to Microsoft 365, decommission the email services in cPanel.
 2. Keep the cPanel account accessible for a short period as a fallback.
 

@@ -1,6 +1,9 @@
 # Managing Linux and Windows Server
 
+
 ## Table of Contents
+
+
 1. [Introduction](#introduction)
 2. [Prerequisites](#prerequisites)
 3. [Managing Linux Server](#managing-linux-server)
@@ -18,9 +21,13 @@
 5. [Conclusion](#conclusion)
 
 ## Introduction
+
+
 This documentation provides a comprehensive guide on how to manage both Linux and Windows servers. It covers essential tasks such as connecting to the server, executing basic commands, managing users, handling packages, and managing services.
 
 ## Prerequisites
+
+
 - Basic understanding of command-line interface (CLI)
 - Administrative access to the servers
 - SSH client for Linux server management
@@ -28,13 +35,19 @@ This documentation provides a comprehensive guide on how to manage both Linux an
 
 ## Managing Linux Server
 
+
+
 ### Connecting to the Server
+
+
 To connect to a Linux server, use SSH:
 ```sh
 ssh username@server_ip_address
 ```
 
 ### Basic Commands
+
+
 - `ls` - List directory contents
 - `cd` - Change directory
 - `pwd` - Print working directory
@@ -57,6 +70,8 @@ ssh username@server_ip_address
   ```
 
 ### Package Management
+
+
 - Update package list:
   ```sh
   sudo apt update
@@ -75,6 +90,8 @@ ssh username@server_ip_address
   ```
 
 ### Service Management
+
+
 - Start a service:
   ```sh
   sudo systemctl start service_name
@@ -94,13 +111,19 @@ ssh username@server_ip_address
 
 ## Managing Windows Server
 
+
+
 ### Connecting to the Server
+
+
 To connect to a Windows server, use Remote Desktop Protocol (RDP):
 1. Open Remote Desktop Connection.
 2. Enter the server IP address and click "Connect".
 3. Enter your username and password.
 
 ### Basic Commands
+
+
 - `dir` - List directory contents
 - `cd` - Change directory
 - `copy` - Copy files
@@ -108,6 +131,8 @@ To connect to a Windows server, use Remote Desktop Protocol (RDP):
 - `del` - Delete files
 
 ### User Management
+
+
 - Add a new user:
   ```powershell
   net user username password /add
@@ -122,6 +147,8 @@ To connect to a Windows server, use Remote Desktop Protocol (RDP):
   ```
 
 ### Package Management
+
+
 - Install a package using PowerShell:
   ```powershell
   Install-Package -Name package_name
@@ -132,6 +159,8 @@ To connect to a Windows server, use Remote Desktop Protocol (RDP):
   ```
 
 ### Service Management
+
+
 - Start a service:
   ```powershell
   Start-Service -Name service_name
@@ -150,4 +179,6 @@ To connect to a Windows server, use Remote Desktop Protocol (RDP):
   ```
 
 ## Conclusion
+
+
 Managing Linux and Windows servers involves understanding and executing various commands for user management, package management, and service management. This documentation provides a foundational guide to help you perform these tasks efficiently.

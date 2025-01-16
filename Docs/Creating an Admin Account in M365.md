@@ -2,6 +2,7 @@ Starting from scratch with Microsoft 365 involves purchasing a subscription, set
 
 # Below is a step-by-step guide to obtaining Microsoft 365 admin access 
 ---
+
 ### **Prerequisites**
 
 Before you begin, ensure you have the following:
